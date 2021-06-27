@@ -1,12 +1,14 @@
 ## Hi I'm A. Madara 👋
 
-[!angelomadara.me](https://angelomadara.me)
-[!LinkedIn Profile](https://www.linkedin.com/in/angelomadara)
-
-### I am a freelance web developer 
-
 [website]: https://angelomadara.me
 [linkedin]: https://www.linkedin.com/in/angelomadara
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+### I am a freelance web developer 
 
 <br />
 
@@ -34,17 +36,14 @@
 <br />
 
 ---
+<summary>:zap: Github Stats</summary>
+
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelomadara&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomadara&layout=compact)
+
 
 <details>
-  <summary>:zap: Github Stats</summary>
   
-  ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelomadara&count_private=true&show_icons=true&include_all_commits=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelomadara&layout=compact)
-
 </details>
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
