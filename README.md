@@ -8,7 +8,7 @@
 
 <br/>
 
-### I am a freelance web developer 
+### I am a web developer 
 
 #### Languages and Tools:
 
