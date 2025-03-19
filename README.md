@@ -1,4 +1,4 @@
-## Hi I'm A. Madara 👋
+## Hi I'm Oleg Madara 👋
 
 [website]: https://angelomadara.me
 [linkedin]: https://www.linkedin.com/in/angelomadara
