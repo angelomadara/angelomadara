@@ -1,6 +1,6 @@
-## Hi I'm Oleg Madara 👋
+## Angelo Madara
 
-[website]: https://angelomadara.me
+[website]: https://oldhat.dev
 [linkedin]: https://www.linkedin.com/in/angelomadara
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -8,7 +8,13 @@
 
 <br/>
 
-### I am a web developer 
+#### Ipse se nihil scire id unum sciat
+
+I'm a passionate full stack developer who enjoys creating web applications from the ground up. I love working with both front-end and back-end technologies, and I find joy in solving complex problems through clean and efficient code.
+
+My current tech stack includes JavaScript, Node.js, Express, React, Vue.js, Next.js, PHP, Laravel, MySQL, PostgreSQL, Docker, and GitLab CI/CD. I enjoy working across these tools and continuously exploring how to integrate them to build reliable and scalable applications.
+
+Aside from coding, I enjoy exploring new technologies, diving into open-source projects, and sometimes just getting lost in the chaotic ideas that pop into my head.
 
 <!-- #### Languages and Tools:
 
